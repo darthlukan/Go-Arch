@@ -15,4 +15,4 @@
 
 ## License
 
-> WTFPL, see LICENSE file.
+> WTFPL, see LICENSE file. 
